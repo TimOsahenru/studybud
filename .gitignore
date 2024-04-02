@@ -1,1 +1,7 @@
 /config/.env
+venv/
+db.sqlite3
+config/__pycache__/
+app/__pycache__/
+app/migrations/__pycache__/
+*.pyc
